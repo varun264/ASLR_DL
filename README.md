@@ -6,11 +6,16 @@ Creating a web application that uses a computer's webcam to capture a person sig
 <img width="270" alt="image" src="https://github.com/varun264/ASLR_DL/assets/78945555/888faa18-e214-4fe8-9097-c60703a410d4">
 
 ## Tools and Modules 
-### OpenCV
-### MediaPipe
-### Tensorflow
-### Flask
-### Bootstrap
+
+OpenCV
+
+MediaPipe
+
+Tensorflow
+
+Flask
+
+Bootstrap
 
 ## Results 
 
